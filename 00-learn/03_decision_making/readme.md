@@ -97,7 +97,7 @@ if isLoggedIn, do: IO.puts "the user is logged in.", else: IO.puts "the user is 
 
 if isLoggedIn, do: (
   ..do stuff
-) else:(
+), else:(
   ...
 )
 
